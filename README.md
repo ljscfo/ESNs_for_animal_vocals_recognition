@@ -1,1 +1,1 @@
-# ESNs_for_animal_vocals_recognition
+# Using Echo State Networks for recognition of different chimpanzee's vocalisations
